@@ -1,19 +1,19 @@
-# Likku - Get Accessorized 🛍️
+# Likku - Get Accessorized 
 An eCommerce website for selling accessories with secure payment integration.
 
-## Features 🚀
+## Features
 - User Registration & Login
 - Admin Panel for Product Management
 - Shopping Cart & Stripe Checkout
 - Secure Authentication System
 
-## Technologies Used 🛠️
+## Technologies Used 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, MySQL
 - **Payment Gateway:** Stripe
 - **Version Control:** Git & GitHub
 
-## How to Run Locally 🖥️
+## How to Run Locally 
 1. Clone the repository:
 ![Screenshot (97)](https://github.com/user-attachments/assets/7a218a29-1704-4ff2-8df3-2720b2d2eef1)
 ![Screenshot (98)](https://github.com/user-attachments/assets/ae7cb12b-472b-4a5b-9fd7-f3f571e69890)
